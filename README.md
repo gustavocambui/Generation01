@@ -1,2 +1,2 @@
-# Generation01
-Atividades Generation Primeiro bloco
+# Lógica de Programação 
+Atividades desenvolvidas na Generation - Primeiro bloco - Lógica - Portugol
